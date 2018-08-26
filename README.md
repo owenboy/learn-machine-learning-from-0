@@ -20,7 +20,7 @@ https://en.wikipedia.org/wiki/Machine_learning
 
 ---
 
-系统的学习知识还是要看书或者听课。我在看周志华老师的《机器学习》，有兴趣的可以看下我的[学习笔记](/Notes/Index.md)。同时也有在看吴恩达老师的《机器学习》视频，在coursera上，可免费旁听https://www.coursera.org/learn/machine-learning 还有一本叫《统计学习方法》的貌似也不错。
+系统的学习知识还是要看书或者听课。我在看周志华老师的《机器学习》，有兴趣的可以看下我的[学习笔记](/Notes Zhou/Index.md)。同时也有在看吴恩达老师的《机器学习》视频，coursera上可免费旁听https://www.coursera.org/learn/machine-learning （网易云课堂上面也有）。这个我也做了[笔记](/Notes Wu/Index.md)。还有一本叫《统计学习方法》的貌似也不错，还没看。
 
 ---
 

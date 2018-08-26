@@ -15,3 +15,9 @@
 [第七章 贝叶斯分类](Chapter7.md)
 
 [第八章 集成学习](Chapter8.md)
+
+[附录A 矩阵](Appendix_A.md)
+
+[附录B 优化](Appendix_B.md)
+
+[附录C 概率分布](Appendix_C.md)
